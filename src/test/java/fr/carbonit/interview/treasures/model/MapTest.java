@@ -24,7 +24,6 @@ public class MapTest {
 
 
     private Map map;
-    private Point position;
 
     @Mock
     private LogicFactory factory;
