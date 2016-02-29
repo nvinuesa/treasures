@@ -12,7 +12,7 @@ public class TreasureTest {
     private static final int posY = 6;
     private static final Point position = new Point(posX, posY);
     private static final int quantity = 100;
-    Treasure treasure;
+    private Treasure treasure;
 
     @Before
     public void setUp() {

@@ -11,7 +11,7 @@ public class MountainTest {
     private static final int posX = 5;
     private static final int posY = 6;
     private static final Point position = new Point(posX, posY);
-    Mountain mountain;
+    private Mountain mountain;
 
     @Before
     public void setUp() {

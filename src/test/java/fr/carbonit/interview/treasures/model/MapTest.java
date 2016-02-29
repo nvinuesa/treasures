@@ -23,11 +23,11 @@ public class MapTest {
     private static final String mapFilePath = "/home/nico/workspace/treasures/src/main/java/fr/carbonit/interview/treasures/mapFile.txt";
 
 
-    Map map;
-    Point position;
+    private Map map;
+    private Point position;
 
     @Mock
-    LogicFactory factory;
+    private LogicFactory factory;
 
     @Before
     public void setUp() throws IOException {
